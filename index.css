@@ -14,4 +14,17 @@
     color: #707070;
     margin: 0 20px;
 }
-/* navbar style strats */
+/* navbar style ends */
+
+/* categories style strats */
+.categories-row{
+    padding-left: 100px;
+}
+.categories-img{
+    width: 150px;
+    height: 100px;
+}
+.md-box{
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+}
+/* categories style ends */
