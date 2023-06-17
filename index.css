@@ -17,9 +17,6 @@
 /* navbar style ends */
 
 /* categories style strats */
-.categories-row{
-    padding-left: 100px;
-}
 .categories-img{
     width: 150px;
     height: 100px;
@@ -28,3 +25,10 @@
     background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
 }
 /* categories style ends */
+
+/* shoes style strats */
+.card-text{
+    color: gray;
+    line-height: 26px;
+}
+/* shoes style ends */
